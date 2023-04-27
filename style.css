@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-input {
+    width: 50%;
+    background-color: lightblue;
+    margin: auto;
+    display: grid;
+    justify-content: center;
+}
+.addInput{
+    width: 300px;
+    height: 30px;
+}
+.addButton{
+    width: 65px;
+    height: 30px;
+}
